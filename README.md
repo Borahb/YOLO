@@ -19,9 +19,9 @@ You can use Jupyter notebook to run.
 
 ## Example
 
-# Input
+### Input
 
 ![](images/citycar.jpg)
 
-# Output
+### Output
 ![](out/outp.jpg)
