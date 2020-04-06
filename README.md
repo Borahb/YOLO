@@ -24,5 +24,4 @@ You can use Jupyter notebook to run.
 ![](images/citycar.jpg)
 
 # Output
-
-![](out/citycar (1).jpg)
+![](out/outp.jpg)
