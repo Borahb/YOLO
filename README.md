@@ -14,8 +14,10 @@ https://hackernoon.com/understanding-yolo-f5a74bbc7967
 
 ## Implimentation
 Here I am using a pretrained model, but you can train the model on your own datasets. Training your own yolo model would require a high end GPU.
-To apply it on your own images, clone the repo to your desktop then insert your images on the image folder. Then run the file object_detection_in_images_yolo.ipynb and see the results in the out folder.
-
+To apply it on your own images, clone the repo to your desktop then insert your images on the image folder.
+Download the pretrained model from the below link: 
+https://www.kaggle.com/rmoharir8396/yolo-h5-file/download
+and put it in the model_data folder.Then run the file object_detection_in_images_yolo.ipynb and see the results in the out folder.
 You can use Jupyter notebook to run.
 
 ## Example
